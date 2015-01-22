@@ -66,8 +66,7 @@ public class Building // class declaration
     }
 
     //constructor 2 ->
-    public Building(string address)
-        : this(address, 0, 0.0) // only by address
+    public Building(string address) : this(address, 0, 0.0) // only by address (chaining constructor)
     {
     }
 
