@@ -12,7 +12,7 @@
         }
 
         //constructor with parameters
-        public Dog(string name, string breed)
+        public Dog(string name = null, string breed = null) //optional
         {
             this.name = name;
             this.breed = breed;
@@ -75,8 +75,11 @@
             //create third dog with no name and breed by parameterless Dog constructor
             Dog thirdDog = new Dog();
 
+            //create fourth dog by optional parameters
+            Dog optDog = new Dog(name: "Opty");// only by 1 parameter(named parameters)
+
             //save the dogs in an array
-            Dog[] dogs = new Dog[] { firstDog, secondDog, thirdDog };
+            Dog[] dogs = new Dog[] { firstDog, secondDog, thirdDog, optDog };
             foreach (Dog dog in dogs)
             {
                 dog.SayBau();
