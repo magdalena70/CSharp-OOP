@@ -1,0 +1,7 @@
+C:\Users\acer\Documents\GitHub\ConsoleApplication1\02_create-classBuilding\bin\Debug\02_create-classBuilding.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\02_create-classBuilding\bin\Debug\02_create-classBuilding.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\02_create-classBuilding\bin\Debug\02_create-classBuilding.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\02_create-classBuilding\bin\Debug\02_create-classBuilding.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\02_create-classBuilding\obj\Debug\02_create-classBuilding.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\02_create-classBuilding\obj\Debug\02_create-classBuilding.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\02_create-classBuilding\obj\Debug\02_create-classBuilding.pdb
