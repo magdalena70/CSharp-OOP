@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\03_CalcDistancePoint\bin\Debug\03_CalcDistancePoint.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\03_CalcDistancePoint\bin\Debug\03_CalcDistancePoint.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\03_CalcDistancePoint\bin\Debug\03_CalcDistancePoint.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\03_CalcDistancePoint\obj\Debug\03_CalcDistancePoint.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\03_CalcDistancePoint\obj\Debug\03_CalcDistancePoint.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\03_CalcDistancePoint\obj\Debug\03_CalcDistancePoint.pdb
