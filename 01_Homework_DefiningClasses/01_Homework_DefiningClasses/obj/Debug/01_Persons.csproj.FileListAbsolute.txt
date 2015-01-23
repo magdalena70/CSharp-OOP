@@ -1,0 +1,9 @@
+C:\Users\acer\Documents\GitHub\01_Homework_DefiningClasses\01_Homework_DefiningClasses\bin\Debug\01_Homework_DefiningClasses.exe.config
+C:\Users\acer\Documents\GitHub\01_Homework_DefiningClasses\01_Homework_DefiningClasses\bin\Debug\01_Homework_DefiningClasses.exe
+C:\Users\acer\Documents\GitHub\01_Homework_DefiningClasses\01_Homework_DefiningClasses\bin\Debug\01_Homework_DefiningClasses.pdb
+C:\Users\acer\Documents\GitHub\01_Homework_DefiningClasses\01_Homework_DefiningClasses\obj\Debug\01_Persons.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\01_Homework_DefiningClasses\01_Homework_DefiningClasses\obj\Debug\01_Homework_DefiningClasses.exe
+C:\Users\acer\Documents\GitHub\01_Homework_DefiningClasses\01_Homework_DefiningClasses\obj\Debug\01_Homework_DefiningClasses.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\01_Homework_DefiningClasses\bin\Debug\01_Homework_DefiningClasses.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\01_Homework_DefiningClasses\obj\Debug\01_Homework_DefiningClasses.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\01_Homework_DefiningClasses\obj\Debug\01_Homework_DefiningClasses.pdb
