@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\02_LaptopShop\bin\Debug\02_LaptopShop.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\02_LaptopShop\bin\Debug\02_LaptopShop.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\02_LaptopShop\bin\Debug\02_LaptopShop.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\02_LaptopShop\obj\Debug\02_LaptopShop.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\02_LaptopShop\obj\Debug\02_LaptopShop.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\02_LaptopShop\obj\Debug\02_LaptopShop.csprojResolveAssemblyReference.cache
