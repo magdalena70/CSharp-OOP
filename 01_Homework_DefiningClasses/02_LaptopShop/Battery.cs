@@ -23,7 +23,7 @@ namespace _02_LaptopShop
             {
                 if (value < 0.0d)
                 {
-                    throw new ArgumentException("Numeric data cannot be negative.");
+                    throw new ArgumentException("Battery Life cannot be negative value.");
                 }
                 this.batteryLife = value;
             }
@@ -37,7 +37,7 @@ namespace _02_LaptopShop
             }
             set
             {
-                if (value == "")
+                if (string.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException("Battery description cannot be empty.");
                 }
@@ -46,7 +46,7 @@ namespace _02_LaptopShop
         }
 
         //constructor
-        public Battery(string batterydescription, double batterylife)
+        public Battery(string batteryDescription, double batteryLife)
         {
             this.BatteryDescription = batteryDescription;
             this.BatteryLife = batteryLife;

@@ -14,6 +14,8 @@ namespace _02_LaptopShop
             Console.WriteLine(mandatoryDescription);
 
             Battery laptopBattery = new Battery("Li-Ion, 4-cells, 2550 mAh", 4.5);
+            //Battery laptopBattery = new Battery("Li-Ion, 4-cells, 2550 mAh", -4.5); //negative value
+            //Battery laptopBattery = new Battery(" ", 4.5); //empty or white space string
             Laptop fullDescription = new Laptop(
                     "Lenovo Yoga 2 Pro", 2259, laptopBattery, "Lenovo", 
                     "Intel Core i5-4210U (2-core, 1.70 - 2.70 GHz, 3MB cache)",
@@ -21,7 +23,10 @@ namespace _02_LaptopShop
                     "13.3\" (33.78 cm) – 3200 x 1800 (QHD+), IPS sensor display");
             Console.WriteLine(fullDescription);
 
-            /*Laptop emptyModelValue = new Laptop("", 699.00m);
+            /*Laptop mandatoryDescrAndBattery = new Laptop("HP 250 G2", 699, laptopBattery);
+            Console.WriteLine(mandatoryDescrAndBattery);*/
+
+            /*Laptop emptyModelValue = new Laptop("", 699);
             Console.WriteLine(emptyModelValue);*/
 
             /*Laptop negativeValue = new Laptop("HP 250 G2", -1);

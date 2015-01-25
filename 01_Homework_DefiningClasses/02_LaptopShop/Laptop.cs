@@ -178,7 +178,7 @@ namespace _02_LaptopShop
                 this.Model, this.Price);
             if (this.BatteryModel != null)
             {
-                laptopDescr = String.Format("Sample laptop description (full):\r\n" +
+                laptopDescr = String.Format("Sample laptop description (mandatory properties + battery):\r\n" +
                     "model: {0} \r\nprice: {1:f2} lv. \r\nbattery: {2} \r\nbattery life: {3} hours\r\n",
                     this.Model, this.Price, this.BatteryModel.BatteryDescription, this.BatteryModel.BatteryLife);
             }
@@ -192,7 +192,7 @@ namespace _02_LaptopShop
                 laptopDescr = String.Format("Sample laptop description (full):\r\n" +
                     "model: {0} \r\nmanufacturer: {1} \r\nprocessor: {2} \r\nRAM: {3}\r\n"+
                     "grphics card: {4}\r\nHDD: {5}\r\nscreen: {6}\r\n"+
-                    "battery: {7} \r\nbattery life: {8} hours \r\nprice: {9:f2} lv.",
+                    "battery: {7} \r\nbattery life: {8} hours \r\nprice: {9:f2}lv.\r\n\r\n",
                     this.Model, this.Manufacturer, this.Processor, this.Ram, 
                     this.GraphicsCard, this.HDD, this.Screen,
                     this.BatteryModel.BatteryDescription, this.BatteryModel.BatteryLife, this.Price);
