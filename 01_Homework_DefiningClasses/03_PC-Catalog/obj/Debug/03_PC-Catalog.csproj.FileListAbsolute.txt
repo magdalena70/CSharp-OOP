@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\03_PC-Catalog\bin\Debug\03_PC-Catalog.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\03_PC-Catalog\bin\Debug\03_PC-Catalog.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\03_PC-Catalog\bin\Debug\03_PC-Catalog.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\03_PC-Catalog\obj\Debug\03_PC-Catalog.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\03_PC-Catalog\obj\Debug\03_PC-Catalog.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\01_Homework_DefiningClasses\03_PC-Catalog\obj\Debug\03_PC-Catalog.pdb
