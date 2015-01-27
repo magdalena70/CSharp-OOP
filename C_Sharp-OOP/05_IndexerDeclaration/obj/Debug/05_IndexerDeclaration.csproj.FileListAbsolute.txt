@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\05_IndexerDeclaration\bin\Debug\05_IndexerDeclaration.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\05_IndexerDeclaration\bin\Debug\05_IndexerDeclaration.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\05_IndexerDeclaration\bin\Debug\05_IndexerDeclaration.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\05_IndexerDeclaration\obj\Debug\05_IndexerDeclaration.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\05_IndexerDeclaration\obj\Debug\05_IndexerDeclaration.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\05_IndexerDeclaration\obj\Debug\05_IndexerDeclaration.pdb
