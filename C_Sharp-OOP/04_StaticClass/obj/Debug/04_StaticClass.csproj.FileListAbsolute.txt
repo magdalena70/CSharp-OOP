@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\04_StaticClass\bin\Debug\04_StaticClass.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\04_StaticClass\bin\Debug\04_StaticClass.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\04_StaticClass\bin\Debug\04_StaticClass.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\04_StaticClass\obj\Debug\04_StaticClass.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\04_StaticClass\obj\Debug\04_StaticClass.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\04_StaticClass\obj\Debug\04_StaticClass.pdb
