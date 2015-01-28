@@ -1,0 +1,1 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\02_Homework_StaticMembersАndNamespaces\Geometry\bin\Debug\Geometry.exe.config
