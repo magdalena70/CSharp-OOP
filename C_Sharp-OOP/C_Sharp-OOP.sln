@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_StaticClass", "04_Static
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_IndexerDeclaration", "05_IndexerDeclaration\05_IndexerDeclaration.csproj", "{64AE052D-0494-49E8-A2DE-46F8CDC1168A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_HandlingExeptions", "07_HandlingExeptions\07_HandlingExeptions.csproj", "{2D538EBC-EBE8-480D-BE18-4CCF16E5E8E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{64AE052D-0494-49E8-A2DE-46F8CDC1168A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64AE052D-0494-49E8-A2DE-46F8CDC1168A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64AE052D-0494-49E8-A2DE-46F8CDC1168A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D538EBC-EBE8-480D-BE18-4CCF16E5E8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D538EBC-EBE8-480D-BE18-4CCF16E5E8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D538EBC-EBE8-480D-BE18-4CCF16E5E8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D538EBC-EBE8-480D-BE18-4CCF16E5E8E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\07_HandlingExeptions\bin\Debug\07_HandlingExeptions.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\07_HandlingExeptions\bin\Debug\07_HandlingExeptions.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\07_HandlingExeptions\bin\Debug\07_HandlingExeptions.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\07_HandlingExeptions\obj\Debug\07_HandlingExeptions.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\07_HandlingExeptions\obj\Debug\07_HandlingExeptions.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\07_HandlingExeptions\obj\Debug\07_HandlingExeptions.pdb
