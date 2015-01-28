@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Geometry.Geometry2D
 {
-    class _Point2D
+    class Point2D
     {
     }
 }
