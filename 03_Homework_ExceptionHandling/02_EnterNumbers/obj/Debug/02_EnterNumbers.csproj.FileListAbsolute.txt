@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\02_EnterNumbers\obj\Debug\02_EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\02_EnterNumbers\obj\Debug\02_EnterNumbers.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\02_EnterNumbers\obj\Debug\02_EnterNumbers.pdb
