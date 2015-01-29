@@ -1,0 +1,12 @@
+C:\Users\acer\Documents\GitHub\03_Homework_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe.config
+C:\Users\acer\Documents\GitHub\03_Homework_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\03_Homework_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe
+C:\Users\acer\Documents\GitHub\03_Homework_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.pdb
+C:\Users\acer\Documents\GitHub\03_Homework_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.exe
+C:\Users\acer\Documents\GitHub\03_Homework_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\01_SquareRoot\bin\Debug\01_SquareRoot.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\03_Homework_ExceptionHandling\01_SquareRoot\obj\Debug\01_SquareRoot.csprojResolveAssemblyReference.cache
