@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\02_Homework_StaticMembersАndNamespaces\04_HTML_Dispatcher\bin\Debug\04_HTML_Dispatcher.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\02_Homework_StaticMembersАndNamespaces\04_HTML_Dispatcher\bin\Debug\04_HTML_Dispatcher.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\02_Homework_StaticMembersАndNamespaces\04_HTML_Dispatcher\bin\Debug\04_HTML_Dispatcher.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\02_Homework_StaticMembersАndNamespaces\04_HTML_Dispatcher\obj\Debug\04_HTML_Dispatcher.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\02_Homework_StaticMembersАndNamespaces\04_HTML_Dispatcher\obj\Debug\04_HTML_Dispatcher.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\02_Homework_StaticMembersАndNamespaces\04_HTML_Dispatcher\obj\Debug\04_HTML_Dispatcher.pdb
