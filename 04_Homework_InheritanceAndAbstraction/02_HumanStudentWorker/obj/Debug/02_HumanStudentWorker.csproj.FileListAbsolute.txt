@@ -1,0 +1,5 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\02_HumanStudentWorker\bin\Debug\02_HumanStudentWorker.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\02_HumanStudentWorker\bin\Debug\02_HumanStudentWorker.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\02_HumanStudentWorker\bin\Debug\02_HumanStudentWorker.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\02_HumanStudentWorker\obj\Debug\02_HumanStudentWorker.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\02_HumanStudentWorker\obj\Debug\02_HumanStudentWorker.pdb
