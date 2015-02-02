@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\04_Homework_InheritanceAndAbstraction\01_SchoolSpace\bin\Debug\01_SchoolSpace.exe.config
+C:\Users\acer\Documents\GitHub\04_Homework_InheritanceAndAbstraction\01_SchoolSpace\obj\Debug\01_SchoolSpace.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\04_Homework_InheritanceAndAbstraction\01_SchoolSpace\bin\Debug\01_SchoolSpace.exe
+C:\Users\acer\Documents\GitHub\04_Homework_InheritanceAndAbstraction\01_SchoolSpace\bin\Debug\01_SchoolSpace.pdb
+C:\Users\acer\Documents\GitHub\04_Homework_InheritanceAndAbstraction\01_SchoolSpace\obj\Debug\01_SchoolSpace.exe
+C:\Users\acer\Documents\GitHub\04_Homework_InheritanceAndAbstraction\01_SchoolSpace\obj\Debug\01_SchoolSpace.pdb
