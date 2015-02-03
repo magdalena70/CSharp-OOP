@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\03_Animals\bin\Debug\03_Animals.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\03_Animals\obj\Debug\03_Animals.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\03_Animals\bin\Debug\03_Animals.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\03_Animals\bin\Debug\03_Animals.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\03_Animals\obj\Debug\03_Animals.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\04_Homework_InheritanceAndAbstraction\03_Animals\obj\Debug\03_Animals.pdb
