@@ -13,6 +13,7 @@ namespace _08_Enum_Example
             Coffee smallCoffee = new Coffee(CofeeSize.Small);
             Coffee normalCoffee = new Coffee(CofeeSize.Normal);
             Coffee doubleCoffee = new Coffee(CofeeSize.Double);
+            // Coffee unknoun = new Coffee((CofeeSize)Enum.Parse(typeof(CofeeSize), "unknoun")); // return Exeption
 
             Console.WriteLine("The {0} coffee is {1} ml.",
                 smallCoffee.Size, (int)smallCoffee.Size);
