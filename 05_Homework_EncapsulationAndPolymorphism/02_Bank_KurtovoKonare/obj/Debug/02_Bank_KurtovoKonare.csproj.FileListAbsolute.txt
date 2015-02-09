@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\02_Bank_KurtovoKonare\bin\Debug\02_Bank_KurtovoKonare.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\02_Bank_KurtovoKonare\obj\Debug\02_Bank_KurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\02_Bank_KurtovoKonare\bin\Debug\02_Bank_KurtovoKonare.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\02_Bank_KurtovoKonare\bin\Debug\02_Bank_KurtovoKonare.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\02_Bank_KurtovoKonare\obj\Debug\02_Bank_KurtovoKonare.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\02_Bank_KurtovoKonare\obj\Debug\02_Bank_KurtovoKonare.pdb
