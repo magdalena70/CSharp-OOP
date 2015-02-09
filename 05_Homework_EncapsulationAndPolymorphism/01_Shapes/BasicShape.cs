@@ -13,8 +13,8 @@ namespace _01_Shapes
 
         protected BasicShape(double width, double height)
         {
-            this.width = width;
-            this.height = height;
+            this.Width = width;
+            this.Height = height;
         }
 
         protected double Width

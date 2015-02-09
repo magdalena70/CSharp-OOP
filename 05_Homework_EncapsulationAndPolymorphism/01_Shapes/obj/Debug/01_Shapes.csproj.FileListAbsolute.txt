@@ -4,3 +4,9 @@ C:\Users\acer\Documents\GitHub\05_Homework_EncapsulationAndPolymorphism\01_Shape
 C:\Users\acer\Documents\GitHub\05_Homework_EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.csprojResolveAssemblyReference.cache
 C:\Users\acer\Documents\GitHub\05_Homework_EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
 C:\Users\acer\Documents\GitHub\05_Homework_EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\01_Shapes\bin\Debug\01_Shapes.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\05_Homework_EncapsulationAndPolymorphism\01_Shapes\obj\Debug\01_Shapes.csprojResolveAssemblyReference.cache
