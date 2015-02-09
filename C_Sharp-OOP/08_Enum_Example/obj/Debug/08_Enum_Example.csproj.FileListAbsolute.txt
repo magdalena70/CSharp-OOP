@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\08_Enum_Example\bin\Debug\08_Enum_Example.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\08_Enum_Example\bin\Debug\08_Enum_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\08_Enum_Example\bin\Debug\08_Enum_Example.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\08_Enum_Example\obj\Debug\08_Enum_Example.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\08_Enum_Example\obj\Debug\08_Enum_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\08_Enum_Example\obj\Debug\08_Enum_Example.pdb
