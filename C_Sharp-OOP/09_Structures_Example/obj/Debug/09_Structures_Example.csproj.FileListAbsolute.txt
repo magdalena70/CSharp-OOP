@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\09_Structures_Example\bin\Debug\09_Structures_Example.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\09_Structures_Example\obj\Debug\09_Structures_Example.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\09_Structures_Example\bin\Debug\09_Structures_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\09_Structures_Example\bin\Debug\09_Structures_Example.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\09_Structures_Example\obj\Debug\09_Structures_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\09_Structures_Example\obj\Debug\09_Structures_Example.pdb
