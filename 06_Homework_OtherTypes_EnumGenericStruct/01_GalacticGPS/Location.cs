@@ -2,12 +2,15 @@
 
 namespace _01_GalacticGPS
 {
+    // Create a struct Location that holds fields of type double latitude and longitude of a given location.
     public struct Location
     {
+        // Add an enum field of type Planet. Encapsulate all fields.
         private double latitude;
         private double longitude;
         private Planet planet;
 
+        // Add a constructor that holds 3 parameters: latitude, longitude and planet.
         public Location(double latitude, double longitude, Planet planet)
             : this()
         {
@@ -22,7 +25,7 @@ namespace _01_GalacticGPS
             {
                 return this.latitude;
             }
-            set
+            private set
             {
                 this.latitude = value;
             }
@@ -34,7 +37,7 @@ namespace _01_GalacticGPS
             {
                 return this.longitude;
             }
-            set
+            private set
             {
                 this.longitude = value;
             }
@@ -46,12 +49,13 @@ namespace _01_GalacticGPS
             {
                 return this.planet;
             }
-            set
+            private set
             {
                 this.planet = value;
             }
         }
 
+        // Override ToString() to print the current location in the format <latitude>, <longitude> - <location>
         public override string ToString()
         {
             return String.Format("{0}, {1} - {2}",
