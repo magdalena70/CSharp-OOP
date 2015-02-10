@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\11_Attributes_Example\bin\Debug\11_Attributes_Example.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\11_Attributes_Example\bin\Debug\11_Attributes_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\11_Attributes_Example\bin\Debug\11_Attributes_Example.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\11_Attributes_Example\obj\Debug\11_Attributes_Example.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\11_Attributes_Example\obj\Debug\11_Attributes_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\11_Attributes_Example\obj\Debug\11_Attributes_Example.pdb
