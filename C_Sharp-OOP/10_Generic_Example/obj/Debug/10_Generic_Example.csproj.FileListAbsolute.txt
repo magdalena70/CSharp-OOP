@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\10_Generic_Example\bin\Debug\10_Generic_Example.exe.config
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\10_Generic_Example\bin\Debug\10_Generic_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\10_Generic_Example\bin\Debug\10_Generic_Example.pdb
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\10_Generic_Example\obj\Debug\10_Generic_Example.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\10_Generic_Example\obj\Debug\10_Generic_Example.exe
+C:\Users\acer\Documents\GitHub\CSharp-OOP\C_Sharp-OOP\10_Generic_Example\obj\Debug\10_Generic_Example.pdb
