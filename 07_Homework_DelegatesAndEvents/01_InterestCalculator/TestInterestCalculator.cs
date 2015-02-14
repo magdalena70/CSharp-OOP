@@ -23,17 +23,21 @@ namespace _01_InterestCalculator
 
         public static void Main()
         {
+            // using constructor
             InterestCalculator simpleInterestCalc = new InterestCalculator(2500m, 7.2m, 15, GetSimpleInterest);
             Console.WriteLine(simpleInterestCalc);
 
-            InterestCalculator compoundInterestCalc = new InterestCalculator(-500m, 5.6m, 10, GetCompoundInterest);
+            InterestCalculator compoundInterestCalc = new InterestCalculator(500m, 5.6m, 10, GetCompoundInterest);
             Console.WriteLine(compoundInterestCalc);
 
-            /*CalculateInterest calcInterest = new CalculateInterest(GetSimpleInterest);
+            /*
+            // dont use constructor
+            CalculateInterest calcInterest = new CalculateInterest(GetSimpleInterest);
             // The result should be rounded to 4 places after the decimal point.
             Console.WriteLine("{0:F4}", calcInterest(2500m, 7.2m, 15));
             calcInterest = GetCompoundInterest;
-            Console.WriteLine("{0:F4}", calcInterest(500m, 5.6m, 10));*/
+            Console.WriteLine("{0:F4}", calcInterest(500m, 5.6m, 10));
+            */
         }
     }
 }
