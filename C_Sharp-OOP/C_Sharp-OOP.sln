@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_MultiDelegates_Example",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_ActionAndFunc_Example", "14_ActionAndFunc_Example\14_ActionAndFunc_Example.csproj", "{E64B0C6D-DE89-411E-9C2D-5A77D5E44A19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_LINQ_Example", "15_LINQ_Example\15_LINQ_Example.csproj", "{7C05BC34-4791-4C4E-B338-F865026546FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{E64B0C6D-DE89-411E-9C2D-5A77D5E44A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E64B0C6D-DE89-411E-9C2D-5A77D5E44A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E64B0C6D-DE89-411E-9C2D-5A77D5E44A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C05BC34-4791-4C4E-B338-F865026546FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C05BC34-4791-4C4E-B338-F865026546FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C05BC34-4791-4C4E-B338-F865026546FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C05BC34-4791-4C4E-B338-F865026546FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
