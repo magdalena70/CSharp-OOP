@@ -8,7 +8,7 @@ namespace ClassStudent
         {
             if (value <= 0)
             {
-                throw new ArgumentException("The {0} cannot be negative or zero.", argumentName);
+                throw new ArgumentException("The argument cannot be negative or zero.", argumentName);
             }
         }
 
