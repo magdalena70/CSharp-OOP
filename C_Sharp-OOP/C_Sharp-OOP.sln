@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_LINQ_Example", "15_LINQ_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_LINQAggregationMethods_Example", "16_LINQAggregationMethods_Example\16_LINQAggregationMethods_Example.csproj", "{3E9010EF-AC2F-441B-85B0-8B893C0A56C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_Clone_Example", "17_Clone_Example\17_Clone_Example.csproj", "{2C31B48E-EC7B-496C-ABAA-012DF7E54049}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3E9010EF-AC2F-441B-85B0-8B893C0A56C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E9010EF-AC2F-441B-85B0-8B893C0A56C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E9010EF-AC2F-441B-85B0-8B893C0A56C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C31B48E-EC7B-496C-ABAA-012DF7E54049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C31B48E-EC7B-496C-ABAA-012DF7E54049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C31B48E-EC7B-496C-ABAA-012DF7E54049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C31B48E-EC7B-496C-ABAA-012DF7E54049}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
